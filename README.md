@@ -16,3 +16,8 @@ Dataset yang digunakan dalam project ini berasal dari repositori:
 2. Install library: `pip install -r requirements.txt`
 3. Masukkan API Key kamu ke file `.env`.
 4. Jalankan: `python main.py`
+
+## Hasil Demo
+Berikut tampilan saat program berhasil dijalankan:
+
+![Hasil Analisis]()
