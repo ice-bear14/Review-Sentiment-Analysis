@@ -20,4 +20,4 @@ Dataset yang digunakan dalam project ini berasal dari repositori:
 ## Hasil Demo
 Berikut tampilan saat program berhasil dijalankan:
 
-![Hasil Analisis]()
+![Hasil Analisis](Hasil Demo.png)
